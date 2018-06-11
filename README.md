@@ -26,8 +26,7 @@ Install this starter (assuming Gatsby is installed) by running from your CLI:
 
 ## Usage
 
-develop
-`gatsby develop`
+`git clone https://github.com/hughpearse/gatsby-starter-bootstrap.git cd gatsby-starter-bootstrap npm install gatsby develop`
 
 ### Custom Theme
 
